@@ -1,0 +1,34 @@
+#redtrangular{
+    height: 900px;
+    width : 400px;
+    background-color:aquamarine;
+    border:5px solid black;
+    border-radius: 5px;
+}
+#first{
+    background-color: red;
+    height: 200px;
+    width:200px;
+    border-radius:50%;
+    margin:50px;
+    text-align: center;
+    padding-top:50px;
+}
+#second{
+    background-color: green;
+    height: 200px;
+    width:200px;
+    border-radius:50%;
+    margin:50px;
+    padding-top:50px;
+    text-align: center;
+}
+#third{
+    background-color: yellow;
+    height: 200px;
+    width:200px;
+    border-radius:50%;
+    margin:50px;
+    padding-top:50px;
+    text-align: center;
+}

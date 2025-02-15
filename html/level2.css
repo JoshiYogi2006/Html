@@ -1,0 +1,18 @@
+#nevbar{
+    height: 60px;
+    font-size:25px;
+    background-color:#0f1111;
+    color:white;
+    
+}
+button{
+    background-color: yellow;
+}
+#logo{
+    color:#f08804;
+    font-size:25px;
+}
+a{
+    margin-right:200px;
+    text-decoration:none;
+}

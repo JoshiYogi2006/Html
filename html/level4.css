@@ -1,0 +1,42 @@
+
+div{
+    background-color: pink;
+    height: 200px;
+    width:200px;
+    border:2px solid black;
+    display: flex;
+    flex-direction: row;
+    transition-property: all;
+    transition-duration: 2s;
+}
+#big{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#box1:hover{
+    background-color: saddlebrown;
+    
+}
+#box2:hover{
+    background-color: blueviolet;
+    
+}
+#box3:hover{
+    background-color: violet;
+    
+}
+div:hover{
+    background-color: red;
+    
+    
+}
+#box1:active{
+    background-color: blue;
+}
+#box2:active{
+    background-color: rgb(226, 43, 43);
+}
+#box3:active{
+    background-color: brown;
+}
